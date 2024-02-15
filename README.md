@@ -1,4 +1,4 @@
-## SummitGO TN - Camping Events Platform
+SummitGO TN ⛰️ - Your Outdoor Adventure Hub ⛺️
 
 **Description:**
 
